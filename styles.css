@@ -54,6 +54,12 @@ h5.modal-title {
     
 }
 
+.footer p{
+    text-align: center;
+    margin-right: 50px;
+    color: #fff;
+}
+
 .footerImg {
     padding: 15px;
 }
